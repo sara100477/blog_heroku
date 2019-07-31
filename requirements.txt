@@ -24,7 +24,7 @@ psycopg2-binary==2.8.3
 pygame==1.9.6
 PyQt5==5.11.3
 PyQt5-sip==4.19.17
-pyqt5-tools==5.11.3.1.4
+
 python-dotenv==0.10.1
 python3-openid==3.1.0
 pytz==2019.1
